@@ -22,6 +22,10 @@ svg * {
 	ry: 0;
 }
 
+ul.list-bullet-color, ol.list-number-color {
+	color: #05978b important!;
+}
+
 .menu {
 	padding: var(--size-2-1);
 }
@@ -40,7 +44,7 @@ svg * {
   --background-secondary: #484c55;
 
   --text-normal: rgb(157, 179, 155);
-  --text-selection: #0e665f;
+  --text-selection: #d1ae12;
 }
 
 .theme-light {
@@ -48,5 +52,5 @@ svg * {
   --background-secondary: rgb(113, 179, 207);
 
   --text-normal: rgb(20, 22, 22);
-  --text-selection: #d13812;
+  --text-selection: #d1ae12;
 }
