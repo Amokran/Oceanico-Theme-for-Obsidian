@@ -44,7 +44,7 @@ ul.list-bullet-color, ol.list-number-color {
   --background-secondary: #484c55;
 
   --text-normal: rgb(157, 179, 155);
-  --text-selection: #d1ae12;
+  --text-selection: rgb(70, 124, 9);
 }
 
 .theme-light {
