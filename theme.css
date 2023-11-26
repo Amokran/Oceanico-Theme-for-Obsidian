@@ -22,10 +22,6 @@ svg * {
 	ry: 0;
 }
 
-ul.list-bullet-color, ol.list-number-color {
-	color: #05978b important!;
-}
-
 .menu {
 	padding: var(--size-2-1);
 }
@@ -44,7 +40,14 @@ ul.list-bullet-color, ol.list-number-color {
   --background-secondary: #484c55;
 
   --text-normal: rgb(157, 179, 155);
+  --text-faint:  rgb(137, 159, 125);
+  --text-muted:  rgb(137, 159, 125);
   --text-selection: #d1ae12;
+  
+  --list-marker-color: #000;
+  --list-bullet-radius: 6px;
+  --list-bullet-size: 6px; 
+  --list-marker-color-collapsed: #633;   
 }
 
 .theme-light {
@@ -52,5 +55,13 @@ ul.list-bullet-color, ol.list-number-color {
   --background-secondary: rgb(113, 179, 207);
 
   --text-normal: rgb(20, 22, 22);
+  --text-faint: rgb(20, 22, 22);
+  --text-muted: rgb(20, 22, 22);
   --text-selection: #d1ae12;
+  
+  --list-marker-color: #000;
+  --list-bullet-radius: 6px;
+  --list-bullet-size: 6px; 
+  --list-marker-color-collapsed: #633;   
+  
 }
