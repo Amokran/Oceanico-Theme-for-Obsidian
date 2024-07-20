@@ -36,18 +36,20 @@ svg * {
 
 .theme-dark {
 
-  --background-primary: #161C41;
-  --background-secondary: #063970;
+  --background-primary:   #002343;
+  --background-secondary: #161C41;
 
-  --text-normal: #C98516;
-  --text-faint: #e28743;
-  --text-muted: #e28743;
-  --text-selection: #16422A;
+  --text-normal:    #EEF;
+  --text-faint:     #D85;
+  --text-muted:     #6D8;
+  --text-selection: #166222;
   
-  --list-marker-color: #A93;
-  --list-bullet-radius: 8px;
-  --list-bullet-size: 8px; 
+  --list-marker-color:           #A93;
   --list-marker-color-collapsed: #633;   
+  
+  --list-bullet-radius: 8px;
+  --list-bullet-size:   8px; 
+
 }
 
 .theme-light {
