@@ -34,13 +34,13 @@ svg * {
 
 .theme-dark {
 
-  --background-secondary: #001025;
   --background-primary: #001025;
+  --background-secondary: #001025;
 
-  --text-muted:    rgb(93, 151, 185);
+  --text-muted:    rgb(30, 140, 120);
   --text-faint:     #D85;
-  --text-normal:    rgb(100, 190, 170); 
-  --text-selection: #166222;
+  --text-normal:    rgb(20, 150, 90); 
+  --text-selection: #601010;
   
   --list-marker-color:           #A93;
   --list-marker-color-collapsed: #633;   
