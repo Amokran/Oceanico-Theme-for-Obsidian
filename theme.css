@@ -50,7 +50,7 @@ svg * {
 }
 
 .theme-dark .cm-s-obsidian span.cm-highlight {
-  background-color: rgb(93, 136, 23) !important;
+  background-color: rgb(136, 74, 23) !important;
   color: rgb(14, 13, 13) !important;
 }
 
@@ -82,7 +82,7 @@ svg * {
 }
 
 .theme-light .cm-s-obsidian span.cm-highlight {
-  background-color: rgb(93, 136, 23) !important;
+  background-color: rgb(136, 74, 23) !important;
   color: rgb(14, 13, 13) !important;
 }
 
