@@ -80,3 +80,18 @@ svg * {
 .theme-light .titlebar-title {
   color: #0c250c; /* Color del texto */
 }
+
+.theme-dark .cm-s-obsidian span.cm-highlight {
+  background-color: rgb(136, 74, 23) !important;
+  color: rgb(14, 13, 13) !important;
+}
+
+/* Cambiar el color de fondo de la cinta superior */
+.theme-dark .titlebar {
+  background-color: #04241c; /* Cambia este valor por el color que prefieras */
+}
+
+/* Cambiar el color del texto en la cinta superior */
+.theme-dark .titlebar-title {
+  color: #0c250c; /* Color del texto */
+}
