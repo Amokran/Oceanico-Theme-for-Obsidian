@@ -34,13 +34,13 @@ svg * {
 
 .theme-dark {
 
-  --background-primary: #001025;
-  --background-secondary: #001025;
+  --background-primary:   #0f101b;
+  --background-secondary: #0e0d1a;
 
-  --text-muted:    rgb(30, 140, 120);
+  --text-normal:    rgb(136, 151, 113);
   --text-faint:     #D85;
-  --text-normal:    rgb(20, 150, 90); 
-  --text-selection: #601010;
+  --text-muted:     rgb(136, 151, 113);
+  --text-selection: #166222;
   
   --list-marker-color:           #A93;
   --list-marker-color-collapsed: #633;   
@@ -49,25 +49,10 @@ svg * {
   --list-bullet-size:   8px; 
 }
 
-.theme-dark .cm-s-obsidian span.cm-highlight {
-  background-color: rgb(136, 74, 23) !important;
-  color: rgb(14, 13, 13) !important;
-}
-
-/* Cambiar el color de fondo de la cinta superior */
-.theme-dark .titlebar {
-  background-color: #0a0802; /* Cambia este valor por el color que prefieras */
-}
-
-/* Cambiar el color del texto en la cinta superior */
-.theme-dark .titlebar-title {
-  color: #7be77b; /* Color del texto */
-}
-
 .theme-light {
 	
-  --background-primary: #8daab6;
-  --background-secondary: rgb(90, 140, 161);
+  --background-primary: #a7b5bb;
+  --background-secondary: rgb(182, 189, 192);
 
   --text-normal: rgb(20, 22, 22);
   --text-faint: rgb(20, 22, 22);
